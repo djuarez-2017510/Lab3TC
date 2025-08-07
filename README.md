@@ -1,1 +1,1 @@
-# Lab3TC
+En este repositorio podras encontrar los 2 ejercicios relacionados al Laboratorio 3 de Teoria de la computación
